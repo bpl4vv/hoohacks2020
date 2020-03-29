@@ -1,0 +1,14 @@
+{
+  "name": "queue-bot",
+  "version": "1.0.0",
+  "description": "A bot that handles queues. Made specifically in response to the online learning conversion as a result of COVID-19 for office hours.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.1.1"
+  }
+}
